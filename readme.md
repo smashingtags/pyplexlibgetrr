@@ -4,7 +4,7 @@ This is a Python script that uses the Plex API to retrieve user data and count t
 
 ## Usage
 
-```git pull https://github.com/smashingtags/pyplexlibgettrr.git```
+```git pull https://github.com/smashingtags/pyplexlibgetrr.git```
 
 1. Replace the `base_url` and `token` variables with the URL of your Plex server and your Plex API token, respectively.
 2. Run the script using `python plex_user_data.py`.
