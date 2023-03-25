@@ -1,4 +1,4 @@
-# pyplexlibgettrr
+# pyplexlibgetrr
 
 This is a Python script that uses the Plex API to retrieve user data and count the number of files in each library.
 
