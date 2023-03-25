@@ -9,6 +9,10 @@ token = "your-plex-api-token"
 headers = {"X-Plex-Token": token}
 url = f"{base_url}/status/sessions"
 response = requests.get(url, headers=headers)
+
+# print raw response content for debugging purposes
+print(response.text)
+
 data = response.json()
 
 # iterate through each user and library to count the number of files
