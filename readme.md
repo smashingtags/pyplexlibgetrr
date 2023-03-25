@@ -8,7 +8,7 @@ This is a Python script that uses the Plex API to retrieve user data and count t
 
 
 1. Replace the `base_url` and `token` variables with the URL of your Plex server and your Plex API token, respectively.
-2. Run the script using `python plex_user_data.py`.
+2. Run the script using `python pyplexlib.py`.
 3. The script will output a list of all your users and their libraries with the corresponding file counts.
 
 ## Requirements
